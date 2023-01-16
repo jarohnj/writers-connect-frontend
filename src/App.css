@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: aliceblue;
+  height: 100vh;
 }
 
 .App-logo {
@@ -35,4 +37,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.Heading {
+  font-family: 'Blancha';
+  font-size: 150px;
+  max-height: 60px;
+}
+
+.Sub-header {
+  font-family:'Garamond';
+  font-size: 25px;
 }
